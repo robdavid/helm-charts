@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  calibre-web:
+  - apiVersion: v2
+    appVersion: 0.6.4
+    created: "2025-07-26T09:04:05.986550067Z"
+    description: A Helm chart for Kubernetes
+    digest: 31b154e93f18449faa9118d9ed290f0821c37f696cc50fb43a941852904e2df9
+    name: calibre-web
+    type: application
+    urls:
+    - https://github.com/robdavid/helm-charts/releases/download/calibre-web-0.1.1/calibre-web-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-07-26T09:04:05.986559505Z"
