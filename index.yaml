@@ -3,6 +3,16 @@ entries:
   calibre-web:
   - apiVersion: v2
     appVersion: 0.6.4
+    created: "2025-07-26T15:44:07.369482051Z"
+    description: A Helm chart for calibre-web
+    digest: 1044a2bc5a64210e08a1511163150585637f9fdcad5ad4f3792423e05ab67763
+    name: calibre-web
+    type: application
+    urls:
+    - https://github.com/robdavid/helm-charts/releases/download/calibre-web-0.2.1/calibre-web-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 0.6.4
     created: "2025-07-26T15:35:20.635692355Z"
     description: A Helm chart for calibre-web
     digest: 6dfde7c4b03ae73393c84a3d62efe90d4485fa10230cc5b79de54b24928f90ea
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/robdavid/helm-charts/releases/download/calibre-web-0.1.1/calibre-web-0.1.1.tgz
     version: 0.1.1
-generated: "2025-07-26T15:35:20.63570053Z"
+generated: "2025-07-26T15:44:07.369493082Z"
